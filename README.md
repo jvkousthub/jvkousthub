@@ -13,4 +13,4 @@ A sophomore from IIITDM Kurnool, India
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jvkousthub&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jvkousthub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![An image of @jvkousthub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jvkousthub)](https://holopin.io/@jvkousthub)
