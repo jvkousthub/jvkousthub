@@ -1,5 +1,5 @@
 # Hi 👋, I'm Kousthub 
-A sophomore from IIIT Kurnool, India
+An undergrad student at IIIT Kurnool, India
 
 📫Reach me at jvkousthub@gmail.com
 ## 🌐 Socials:
