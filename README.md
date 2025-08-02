@@ -1,8 +1,9 @@
 # Hi 👋, I'm Kousthub 
 An undergrad student at IIIT Kurnool, India
 
-📫Reach me at jvkousthub@gmail.com
-🔗Portfolio - kousthub.pages.dev
+📫 Reach me at: [jvkousthub@gmail.com](mailto:jvkousthub@gmail.com)  
+🔗 Portfolio: [kousthub.pages.dev](https://kousthub.pages.dev)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jvkousthub) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jvkousthub) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jvkousthub@gmail.com) 
